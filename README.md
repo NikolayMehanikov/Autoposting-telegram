@@ -1,8 +1,5 @@
 # Автопостинг скриншотов в телеграм канал
 
-<p align="center">
-      <img src="https://i.ibb.co/h1ppZ73/Vector.png" alt="Логотип проекта" width="90">
-</p>
 
 ## About
 
