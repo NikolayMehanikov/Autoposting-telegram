@@ -22,14 +22,9 @@
 
 ## Documentation
 
-
-
-## Distribute
-
-- [Открыть сайт](https://nikolaymehanikov.github.io/Lease-Cars/)
-
+[Документация](https://docs.google.com/document/d/14b8Br6Ejk7asJWAB2vmH25pLHYdETopmfv0TKgwXiLU/edit)
 
 ## Developers
 
 - [Nikolay Mehanikov](https://github.com/NikolayMehanikov)
-## License
+
